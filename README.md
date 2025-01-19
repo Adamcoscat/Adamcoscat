@@ -1,9 +1,5 @@
-## Hi there 👋
+## Hi there! 👋
 
-<!--
-**Adamcoscat/Adamcoscat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on a mini-blog about bears
 - 🌱 I’m currently learning HTML and CSS
@@ -13,4 +9,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: my email is adam10kk2@gmail.com
 - ⚡ Fun fact: I love reading fiction!
 
--->
+
